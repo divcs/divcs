@@ -1,3 +1,4 @@
+[![An image of @divcs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divcs)](https://holopin.io/@divcs)
 <h1 align="center">Hi 👋, I'm Divya</h1>
 <h3 align="center">Learner & Optimist</h3>
 
