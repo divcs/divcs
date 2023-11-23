@@ -9,7 +9,6 @@
 
 ---
 
-
 # 💫 About Me:
 
 🛸 Web developer<br>💬 Learning & Building<br>🤝 Ready for collaboration<br>📂 Open source projects<br>⚡ Probably questioning column is horizontal or vertical ❔<br><br>
