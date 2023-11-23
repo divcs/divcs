@@ -2,7 +2,6 @@
 
 ## [![An image of @divcs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/divcs)](https://holopin.io/@divcs)
 
-
 <br>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFFDF&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%92%BC+Forwarding+steps;%F0%9F%A4%9D+Collaborator+%26+Coordinator;%F0%9F%8F%97%EF%B8%8F+Focused+Learner;%F0%9F%A7%A9+Problem+Solving+approach;%F0%9F%A4%9D+Technology+driven;%F0%9F%92%A1+Learning+->+Working" alt="Text Profile"/>
