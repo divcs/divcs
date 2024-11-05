@@ -7,9 +7,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=40&pause=1000&color=FFFFFFDF&center=true&vCenter=true&random=false&width=900&lines=%F0%9F%92%BC+Forwarding+steps;%F0%9F%A4%9D+Collaborator+%26+Coordinator;%F0%9F%8F%97%EF%B8%8F+Focused+Learner;%F0%9F%A7%A9+Problem+Solving+approach;%F0%9F%A4%9D+Technology+driven;%F0%9F%92%A1+Let's connect" alt="Text Profile"/>
 </p>
 
+# GSSOC(24) Badges 🪶:
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100px" height="100px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
+<!-- <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="100px" height="100px" />
@@ -20,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Code%20Luminary.png" width="105px" height="105px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="100px" height="100px" />
   <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Pull%20Expert.png" width="100px" height="100px" /></a>
+-->
 </div>
 
 # 💫 About Me:
